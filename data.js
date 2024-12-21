@@ -8,5 +8,7 @@ export default [
         title: "Atomic Habits",
         genre: "Productivity",
         linkToPDF: "https://drive.google.com/file/d/1l_L40XGeueuzlWPTc8eApuHj9CgwZAIR/view?usp=drive_link",
+        authorAndYear: "James Clear - 2018",
+        description: ""
     },
 ]
