@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "https://unsplash.com/photos/a-stack-of-books-with-a-white-object-on-top-of-it-l98dIPnmIgQ",
+            src: "public/images/imagebook.avif",
             alt: "Atomic Habits"
         }
     },
