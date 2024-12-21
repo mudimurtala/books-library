@@ -4,11 +4,18 @@ import Entry from "./components/Entry"
 import data from "./data"
 
 export default function App() {
+    const dataElements = data.map((item) => {
+        return (
+            <Entry 
+                {...item}
+            />
+        )
+    })
     return (
         <>
             <Header />
             <main className="container">
-
+                {dataElements}
             </main>
             {/* <Footer /> */}
         </>
