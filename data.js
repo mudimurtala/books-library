@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "public/images/atomichabits.jpeg",
+            src: "images/atomichabits.jpeg",
             alt: "Atomic Habits"
         },
         title: "Atomic Habits",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "public/images/richdad.jpg",
+            src: "images/richdad.jpg",
             alt: "Rich Dad Poor Dad"
         },
         title: "Rich Dad, Poor Dad",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "public/images/think-and-grow-rich-.jpg",
+            src: "images/think-and-grow-rich-.jpg",
             alt: "Think and Grow Rich"
         },
         title: "Think and Grow Rich",
@@ -38,7 +38,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "public/images/do-epic-shit.jpg",
+            src: "images/do-epic-shit.jpg",
             alt: "Do Epic Shit"
         },
         title: "Do Epic Shit",
