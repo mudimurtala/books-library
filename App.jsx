@@ -6,7 +6,8 @@ import data from "./data"
 export default function App() {
     const dataElements = data.map((item) => {
         return (
-            <Entry 
+            <Entry
+                key={item.id}
                 {...item}
             />
         )
