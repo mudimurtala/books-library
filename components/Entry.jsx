@@ -18,6 +18,9 @@ export default function Entry(props) {
                 />
                 <span className="genre">{props.genre}</span>
                 <a href={props.linkToPDF} target="_blank">link to PDF</a>
+                <h2 className="book-title">{props.title}</h2>
+                <p className="author-year">{props.authorAndYear}</p>
+                <p className="description">{props.description}</p>
             </div>
         </article>
     )
