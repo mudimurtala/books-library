@@ -38,13 +38,13 @@ export default [
     {
         id: 4,
         img: {
-            src: "public/images/imagebook.avif",
-            alt: "Atomic Habits"
+            src: "public/images/do-epic-shit.jpg",
+            alt: "Do Epic Shit"
         },
-        title: "Atomic Habits",
-        genre: "Productivity",
-        linkToPDF: "https://drive.google.com/file/d/1l_L40XGeueuzlWPTc8eApuHj9CgwZAIR/view?usp=drive_link",
-        authorAndYear: "James Clear - 2018",
-        description: "James Clear's Atomic Habits explores how small, consistent habits can lead to remarkable personal and professional transformations. It offers practical strategies for building good habits, breaking bad ones, and mastering the tiny changes that compound into significant growth over time."
+        title: "Do Epic Shit",
+        genre: "Self-Development",
+        linkToPDF: "https://drive.google.com/file/d/1Y7Id286JeE8BwSGousr2nYdhP0_YFDTw/view?usp=drive_link",
+        authorAndYear: "Ankur Warikoo - 2021",
+        description: "Ankur Warikoo's book, Do Epic Shit, is a collection of his insights on success, failure, money, and personal growth. It offers practical advice on building habits, managing finances, and fostering relationships. The book is designed for easy reading, allowing readers to pick any page and find valuable lessons."
     },
 ]
