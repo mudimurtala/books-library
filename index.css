@@ -3,16 +3,16 @@ html, body {
 }
 
 * {
-    /* outline: 2px solid black; */
     font-family: Inter;
 }
 
 body {
     font-family: Inter;
+    background-color: rgb(163, 163, 69);
 }
 
 header, footer {
-    background-color: #F55A5A;
+    background-color: #602f2f;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,13 +61,6 @@ article.book-entry .category {
     filter: brightness(1) invert(0);
 }
 
-/* 
-article.journal-entry .marker {
-    width: 7px;
-    margin-right: 4px;
-}
-*/
-
 .info-container span.genre {
     text-transform: uppercase;
     font-size: 0.9rem;
@@ -77,10 +70,6 @@ article.journal-entry .marker {
 .info-container a {
     color: #2B283A;
     font-size: 0.8rem;
-}
-
-.info-container a:visited {
-    color: #918E9B;
 }
 
 .info-container h2.book-title {
