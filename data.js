@@ -12,7 +12,7 @@ export default [
         description: "James Clear's Atomic Habits explores how small, consistent habits can lead to remarkable personal and professional transformations. It offers practical strategies for building good habits, breaking bad ones, and mastering the tiny changes that compound into significant growth over time."
     },
     {
-        id: 1,
+        id: 2,
         img: {
             src: "public/images/imagebook.avif",
             alt: "Atomic Habits"
@@ -24,7 +24,7 @@ export default [
         description: "James Clear's Atomic Habits explores how small, consistent habits can lead to remarkable personal and professional transformations. It offers practical strategies for building good habits, breaking bad ones, and mastering the tiny changes that compound into significant growth over time."
     },
     {
-        id: 1,
+        id: 3,
         img: {
             src: "public/images/imagebook.avif",
             alt: "Atomic Habits"
@@ -36,7 +36,7 @@ export default [
         description: "James Clear's Atomic Habits explores how small, consistent habits can lead to remarkable personal and professional transformations. It offers practical strategies for building good habits, breaking bad ones, and mastering the tiny changes that compound into significant growth over time."
     },
     {
-        id: 1,
+        id: 4,
         img: {
             src: "public/images/imagebook.avif",
             alt: "Atomic Habits"
