@@ -83,4 +83,29 @@ article.journal-entry .marker {
     color: #918E9B;
 }
 
+.info-container h2.book-title {
+    margin-top: 7px;
+    margin-bottom: 17px;
+}
+
+.info-container p.author-year {
+    font-weight: bold;
+}
+
+.info-container p.description {
+    line-height: 1.5;
+    font-size: 0.8rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+
+/* 
+.info-container h2.entry-title {
+    margin-top: 7px;
+    margin-bottom: 17px;
+}
+*/
 
